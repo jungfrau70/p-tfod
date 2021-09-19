@@ -1,0 +1,10 @@
+# pip install -U -r requirements.txt
+# python -m ipykernel install ---user --name=tfod
+jupyterlab
+matplotlib==3.2
+opencv-python
+pycocotools
+tensorflow-gpu
+tensorboard
+pyqt5
+lxml
